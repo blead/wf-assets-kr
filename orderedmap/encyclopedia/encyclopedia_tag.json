@@ -1,0 +1,837 @@
+{
+  "tag_qualia_city": [
+    [
+      "쿼리아 시티"
+    ]
+  ],
+  "tag_hoshigui": [
+    [
+      "별 먹는 자"
+    ]
+  ],
+  "tag_oculus": [
+    [
+      "오큘러스"
+    ]
+  ],
+  "tag_fatoma": [
+    [
+      "파트마교"
+    ]
+  ],
+  "tag_sorcerer": [
+    [
+      "미궁의 마법사"
+    ]
+  ],
+  "tag_alchemy": [
+    [
+      "연금술"
+    ]
+  ],
+  "tag_guild_knights": [
+    [
+      "길드 나이트"
+    ]
+  ],
+  "tag_mireia_kingdom": [
+    [
+      "미레이아 왕국"
+    ]
+  ],
+  "tag_parket": [
+    [
+      "파르켓"
+    ]
+  ],
+  "tag_coluluru": [
+    [
+      "코배아로"
+    ]
+  ],
+  "tag_tribal_language": [
+    [
+      "부족어"
+    ]
+  ],
+  "tag_wind_spbro": [
+    [
+      "시엘"
+    ]
+  ],
+  "tag_jiguza": [
+    [
+      "화광노인Z"
+    ]
+  ],
+  "tag_koiazu": [
+    [
+      "코이아즈"
+    ]
+  ],
+  "tag_yokai_zukan": [
+    [
+      "요괴 도감"
+    ]
+  ],
+  "tag_toyakiren": [
+    [
+      "토야키렌"
+    ]
+  ],
+  "tag_altmem": [
+    [
+      "AltMeme"
+    ]
+  ],
+  "tag_rebuild_land": [
+    [
+      "리빌드랜드"
+    ]
+  ],
+  "tag_casino_scrapper": [
+    [
+      "카지노 스크래퍼"
+    ]
+  ],
+  "tag_blade_dancer_brother": [
+    [
+      "아즈랄"
+    ]
+  ],
+  "tag_sea_level_rise": [
+    [
+      "해수면 상승 피해"
+    ]
+  ],
+  "tag_mermaid_1halfanv": [
+    [
+      "인어 해적단"
+    ]
+  ],
+  "tag_fire_water": [
+    [
+      "불타는 물"
+    ]
+  ],
+  "tag_world_beast_after": [
+    [
+      "화평, 그 후"
+    ]
+  ],
+  "tag_world_mecha_after": [
+    [
+      "통치자 없는 별, 그 후"
+    ]
+  ],
+  "tag_world_desert_after": [
+    [
+      "동란, 그 후"
+    ]
+  ],
+  "tag_assassination": [
+    [
+      "이세리아 제로노아 암살 사건"
+    ]
+  ],
+  "tag_farland_0": [
+    [
+      "제로노아 가문"
+    ]
+  ],
+  "tag_farland_1": [
+    [
+      "솔론 가문"
+    ]
+  ],
+  "tag_farland_2": [
+    [
+      "트와이사 가문"
+    ]
+  ],
+  "tag_farland_3": [
+    [
+      "사디아 가문"
+    ]
+  ],
+  "tag_farland_4": [
+    [
+      "폴러 가문"
+    ]
+  ],
+  "tag_farland_6": [
+    [
+      "헥시즈 가문"
+    ]
+  ],
+  "tag_farland_7": [
+    [
+      "세이븐 가문"
+    ]
+  ],
+  "tag_farland_8": [
+    [
+      "에잇런 가문"
+    ]
+  ],
+  "tag_farland_9": [
+    [
+      "나인즈 가문"
+    ]
+  ],
+  "tag_hoshiyomi": [
+    [
+      "별점"
+    ]
+  ],
+  "tag_frontier": [
+    [
+      "변경"
+    ]
+  ],
+  "tag_madouki": [
+    [
+      "마도기"
+    ]
+  ],
+  "tag_giant": [
+    [
+      "별을 부수는 거신"
+    ]
+  ],
+  "tag_updater": [
+    [
+      "업데이터"
+    ]
+  ],
+  "tag_defaulter": [
+    [
+      "디폴터"
+    ]
+  ],
+  "tag_central": [
+    [
+      "센트럴"
+    ]
+  ],
+  "tag_alk_p": [
+    [
+      "아르크P"
+    ]
+  ],
+  "tag_magical_academy": [
+    [
+      "월룬타스 마법학교"
+    ]
+  ],
+  "tag_pbc_ceo": [
+    [
+      "킹 존슨"
+    ]
+  ],
+  "tag_farland": [
+    [
+      "파랜드"
+    ]
+  ],
+  "tag_discarded_dragon": [
+    [
+      "폐룡"
+    ]
+  ],
+  "tag_residual_thoughts": [
+    [
+      "잔류 사념"
+    ]
+  ],
+  "tag_hien_free_knights": [
+    [
+      "비연 자유 기사단"
+    ]
+  ],
+  "tag_doujinshi": [
+    [
+      "동인지"
+    ]
+  ],
+  "tag_saga_white_tiger": [
+    [
+      "백호 전설"
+    ]
+  ],
+  "tag_event_discarded_dragon": [
+    [
+      "폐룡 강림"
+    ]
+  ],
+  "tag_alchemy_another": [
+    [
+      "이세계의 연금술"
+    ]
+  ],
+  "tag_palpebra_orphan": [
+    [
+      "팔페브라의 고아"
+    ]
+  ],
+  "tag_elf": [
+    [
+      "엘프"
+    ]
+  ],
+  "tag_ages_after": [
+    [
+      "에이지스, 그 후"
+    ]
+  ],
+  "tag_creator": [
+    [
+      "주술 도구 제작자"
+    ]
+  ],
+  "tag_cursed_item": [
+    [
+      "주술 도구"
+    ]
+  ],
+  "tag_santa": [
+    [
+      "산타"
+    ]
+  ],
+  "tag_kotatu": [
+    [
+      "코타츠"
+    ]
+  ],
+  "tag_idol_strength": [
+    [
+      "아이돌 강도"
+    ]
+  ],
+  "tag_traveling_entertainer": [
+    [
+      "유랑단 단원"
+    ]
+  ],
+  "tag_anti_kingdom": [
+    [
+      "반왕국 조직"
+    ]
+  ],
+  "tag_hunter": [
+    [
+      "헌터"
+    ]
+  ],
+  "tag_luseltear": [
+    [
+      "르셀티아"
+    ]
+  ],
+  "tag_frontier_people": [
+    [
+      "변경의 백성"
+    ]
+  ],
+  "tag_secret_scriptures": [
+    [
+      "숨겨진 성전"
+    ]
+  ],
+  "tag_motesigusa": [
+    [
+      "설렘 유발 몸짓"
+    ]
+  ],
+  "tag_whitefes": [
+    [
+      "화이트 페스티벌"
+    ]
+  ],
+  "tag_conciliator": [
+    [
+      "조정자 펠더"
+    ]
+  ],
+  "tag_maidbar": [
+    [
+      "메이드 주점"
+    ]
+  ],
+  "tag_toffee": [
+    [
+      "타피"
+    ]
+  ],
+  "tag_himo": [
+    [
+      "기둥서방"
+    ]
+  ],
+  "tag_butlercafe": [
+    [
+      "집사 카페"
+    ]
+  ],
+  "tag_triminutes": [
+    [
+      "트라이미닛사"
+    ]
+  ],
+  "tag_genesoldier": [
+    [
+      "진 솔저"
+    ]
+  ],
+  "tag_newworld": [
+    [
+      "이주 계획"
+    ]
+  ],
+  "tag_jq": [
+    [
+      "질 쿼처"
+    ]
+  ],
+  "tag_huntsman": [
+    [
+      "사냥꾼"
+    ]
+  ],
+  "tag_kemomimi": [
+    [
+      "동물귀 단"
+    ]
+  ],
+  "tag_the_only_rule": [
+    [
+      "별을 보는 마을의 거주 룰"
+    ]
+  ],
+  "tag_platinum": [
+    [
+      "플래티넘"
+    ]
+  ],
+  "tag_trouble": [
+    [
+      "여난의 상"
+    ]
+  ],
+  "tag_relics_guild": [
+    [
+      "유품 회수꾼 길드"
+    ]
+  ],
+  "tag_tribe_spirit": [
+    [
+      "정령사 부족"
+    ]
+  ],
+  "tag_code_lillian": [
+    [
+      "코드 릴리안"
+    ]
+  ],
+  "tag_hidden_treasure": [
+    [
+      "미레이아 왕국의 비보"
+    ]
+  ],
+  "tag_shibuya_after_1": [
+    [
+      "시부야, 그 후 1"
+    ]
+  ],
+  "tag_shibuya_after_2": [
+    [
+      "시부야, 그 후 2"
+    ]
+  ],
+  "tag_ages_remnants": [
+    [
+      "에이지스 잔당"
+    ]
+  ],
+  "tag_mayor": [
+    [
+      "시부야 촌장"
+    ]
+  ],
+  "tag_golem": [
+    [
+      "골렘"
+    ]
+  ],
+  "tag_golem_academy": [
+    [
+      "학원제 골렘"
+    ]
+  ],
+  "tag_orchestra": [
+    [
+      "파랜드 궁정 악단"
+    ]
+  ],
+  "tag_luik": [
+    [
+      "루이크"
+    ]
+  ],
+  "tag_teacher": [
+    [
+      "학원 교사"
+    ]
+  ],
+  "tag_outsider": [
+    [
+      "술리에서 멀어진 자"
+    ]
+  ],
+  "tag_inaho_task": [
+    [
+      "이나호의 과제"
+    ]
+  ],
+  "tag_golem_club": [
+    [
+      "골렘부"
+    ]
+  ],
+  "tag_golem_club_02": [
+    [
+      "골렘부2"
+    ]
+  ],
+  "tag_golem_club_03": [
+    [
+      "골렘부3"
+    ]
+  ],
+  "tag_mireia_kingdom_02": [
+    [
+      "미레이아 왕국2"
+    ]
+  ],
+  "tag_manabrain": [
+    [
+      "마나 브레인"
+    ]
+  ],
+  "tag_eating_function": [
+    [
+      "식사 기능"
+    ]
+  ],
+  "tag_operation_nanpa": [
+    [
+      "헌팅 대작전"
+    ]
+  ],
+  "tag_scott": [
+    [
+      "스콧"
+    ]
+  ],
+  "tag_2nd_shop": [
+    [
+      "2호점"
+    ]
+  ],
+  "tag_town_cat": [
+    [
+      "별을 보는 마을의 고양이"
+    ]
+  ],
+  "tag_self_degradation": [
+    [
+      "릴랙스하는 게 최고~"
+    ]
+  ],
+  "tag_teacher_yuna": [
+    [
+      "유나의 선생님"
+    ]
+  ],
+  "tag_tribe_bird": [
+    [
+      "조류족"
+    ]
+  ],
+  "tag_kowloon": [
+    [
+      "쿠롱즈 플로트"
+    ]
+  ],
+  "tag_merry_sheep": [
+    [
+      "메리 시프"
+    ]
+  ],
+  "tag_ages_children": [
+    [
+      "에이지스였던 아이들"
+    ]
+  ],
+  "tag_guild_fleaks_01": [
+    [
+      "길드 프릭스1"
+    ]
+  ],
+  "tag_guild_fleaks_02": [
+    [
+      "길드 프릭스2"
+    ]
+  ],
+  "tag_yokai_theater": [
+    [
+      "요괴극"
+    ]
+  ],
+  "tag_marching_band": [
+    [
+      "취주악부"
+    ]
+  ],
+  "tag_halloween_22": [
+    [
+      "시부야 융합 후의 할로윈"
+    ]
+  ],
+  "tag_aggie": [
+    [
+      "아지"
+    ]
+  ],
+  "tag_associate_member": [
+    [
+      "길드 나이트 준대원"
+    ]
+  ],
+  "tag_registration_01": [
+    [
+      "시민 등록"
+    ]
+  ],
+  "tag_registration_02": [
+    [
+      "시민 등록2"
+    ]
+  ],
+  "tag_junior": [
+    [
+      "후배"
+    ]
+  ],
+  "tag_fang_mercenary": [
+    [
+      "송곳니 용병단"
+    ]
+  ],
+  "tag_halloween": [
+    [
+      "할로윈"
+    ]
+  ],
+  "tag_one_sword": [
+    [
+      "일의 대도"
+    ]
+  ],
+  "tag_one_sword2": [
+    [
+      "일의 대도 두 번째"
+    ]
+  ],
+  "tag_thirdia_sword": [
+    [
+      "사디아의 검"
+    ]
+  ],
+  "tag_nine_blade": [
+    [
+      "구검"
+    ]
+  ],
+  "tag_nine_blade2": [
+    [
+      "구검 두 번째"
+    ]
+  ],
+  "tag_farland2": [
+    [
+      "파랜드 두 번째"
+    ]
+  ],
+  "tag_monster_disaster": [
+    [
+      "파랜드 마물 재해"
+    ]
+  ],
+  "tag_succession": [
+    [
+      "왕위 계승권"
+    ]
+  ],
+  "tag_william": [
+    [
+      "채소 장수 윌"
+    ]
+  ],
+  "tag_new_hien_free_knights": [
+    [
+      "신 비연 자유 기사단"
+    ]
+  ],
+  "tag_swallow_bro": [
+    [
+      "이그노츠"
+    ]
+  ],
+  "tag_mob_zero_knight": [
+    [
+      "로나이트"
+    ]
+  ],
+  "tag_prince_zero_brother": [
+    [
+      "아스람"
+    ]
+  ],
+  "tag_mob_augus": [
+    [
+      "오거스"
+    ]
+  ],
+  "tag_prochio": [
+    [
+      "프로키오"
+    ]
+  ],
+  "tag_guide": [
+    [
+      "인도자"
+    ]
+  ],
+  "tag_star": [
+    [
+      "별"
+    ]
+  ],
+  "tag_star_sacred_treasure": [
+    [
+      "별의 신기"
+    ]
+  ],
+  "tag_hakuunro": [
+    [
+      "백운루"
+    ]
+  ],
+  "tag_ninetail": [
+    [
+      "나인테일호"
+    ]
+  ],
+  "tag_enlil": [
+    [
+      "엔릴"
+    ]
+  ],
+  "tag_fafnir": [
+    [
+      "파프니르"
+    ]
+  ],
+  "tag_snowflakes": [
+    [
+      "雪花結界"
+    ]
+  ],
+  "tag_nuxe": [
+    [
+      "ニュクス"
+    ]
+  ],
+  "tag_ema": [
+    [
+      "エマ"
+    ]
+  ],
+  "tag_ceremony": [
+    [
+      "기념 행사"
+    ]
+  ],
+  "tag_mofnist": [
+    [
+      "복슬니스트"
+    ]
+  ],
+  "tag_farland_5": [
+    [
+      "피프스 가문"
+    ]
+  ],
+  "tag_addor": [
+    [
+      "어도어"
+    ]
+  ],
+  "tag_cosmicidolpower": [
+    [
+      "코즈믹 아이돌 파워"
+    ]
+  ],
+  "tag_cosmicidolpower02": [
+    [
+      "코즈믹 그라비아 파워"
+    ]
+  ],
+  "tag_girlsschool": [
+    [
+      "효오 여학원"
+    ]
+  ],
+  "tag_instrumentmaker": [
+    [
+      "메이디"
+    ]
+  ],
+  "tag_mysterymireia": [
+    [
+      "미레이아 사람의 수수께끼"
+    ]
+  ],
+  "tag_juni": [
+    [
+      "유니"
+    ]
+  ],
+  "tag_yamato_after": [
+    [
+      "야마토의 도시, 그 후"
+    ]
+  ],
+  "tag_port_city": [
+    [
+      "티아트"
+    ]
+  ],
+  "tag_nine_stars_drops": [
+    [
+      "나인스타즈 드롭스"
+    ]
+  ],
+  "tag_guiding_hand": [
+    [
+      "인도하는 손"
+    ]
+  ],
+  "tag_shinobu": [
+    [
+      "시노부"
+    ]
+  ]
+}

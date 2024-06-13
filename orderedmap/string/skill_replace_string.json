@@ -1,0 +1,74 @@
+[
+  [
+    "화속성 ",
+    "<icon id='red'>"
+  ],
+  [
+    "수속성 ",
+    "<icon id='blue'>"
+  ],
+  [
+    "뇌속성 ",
+    "<icon id='yellow'>"
+  ],
+  [
+    "풍속성 ",
+    "<icon id='green'>"
+  ],
+  [
+    "광속성 ",
+    "<icon id='white'>"
+  ],
+  [
+    "암속성 ",
+    "<icon id='black'>"
+  ],
+  [
+    "화속성 대미지",
+    "<icon id='red'>&nbsp;&nbsp;대미지"
+  ],
+  [
+    "수속성 대미지",
+    "<icon id='blue'>&nbsp;&nbsp;대미지"
+  ],
+  [
+    "뇌속성 대미지",
+    "<icon id='yellow'>&nbsp;&nbsp;대미지"
+  ],
+  [
+    "풍속성 대미지",
+    "<icon id='green'>&nbsp;&nbsp;대미지"
+  ],
+  [
+    "광속성 대미지",
+    "<icon id='white'>&nbsp;&nbsp;대미지"
+  ],
+  [
+    "암속성 대미지",
+    "<icon id='black'>&nbsp;&nbsp;대미지"
+  ],
+  [
+    "속성 「화」",
+    "<icon id='red'>"
+  ],
+  [
+    "속성 「수」",
+    "<icon id='blue'>"
+  ],
+  [
+    "속성 「뇌」",
+    "<icon id='yellow'>"
+  ],
+  [
+    "속성 「풍」",
+    "<icon id='green'>"
+  ],
+  [
+    "속성 「광」",
+    "<icon id='white'>"
+  ],
+  [
+    "속성 「암」",
+    "<icon id='black'>"
+  ]
+]

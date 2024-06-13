@@ -1,0 +1,262 @@
+{
+  "heal_up": [
+    [
+      "회복량 강화"
+    ]
+  ],
+  "condition_effect_attack_power_down": [
+    [
+      "적에게 공격력 하락 효과 강화"
+    ]
+  ],
+  "resistance_allelement": [
+    [
+      "전속성 내성 상승 효과 강화"
+    ]
+  ],
+  "resistance_red": [
+    [
+      "화속성 내성 상승 효과 강화"
+    ]
+  ],
+  "resistance_blue": [
+    [
+      "수속성 내성 상승 효과 강화"
+    ]
+  ],
+  "resistance_yellow": [
+    [
+      "뇌속성 내성 상승 효과 강화"
+    ]
+  ],
+  "resistance_green": [
+    [
+      "풍속성 내성 상승 효과 강화"
+    ]
+  ],
+  "resistance_white": [
+    [
+      "광속성 내성 상승 효과 강화"
+    ]
+  ],
+  "resistance_black": [
+    [
+      "암속성 내성 상승 효과 강화"
+    ]
+  ],
+  "damage_cut_allelement": [
+    [
+      "전속성 대미지 컷 효과 강화"
+    ]
+  ],
+  "damage_cut_red": [
+    [
+      "화속성 대미지 컷 효과 강화"
+    ]
+  ],
+  "damage_cut_blue": [
+    [
+      "수속성 대미지 컷 효과 강화"
+    ]
+  ],
+  "damage_cut_yellow": [
+    [
+      "뇌속성 대미지 컷 효과 강화"
+    ]
+  ],
+  "damage_cut_green": [
+    [
+      "풍속성 대미지 컷 효과 강화"
+    ]
+  ],
+  "damage_cut_white": [
+    [
+      "광속성 대미지 컷 효과 강화"
+    ]
+  ],
+  "damage_cut_black": [
+    [
+      "암속성 대미지 컷 효과 강화"
+    ]
+  ],
+  "condition_effect_allelement_up": [
+    [
+      "적에게 전속성 내성 하락 성능 강화"
+    ]
+  ],
+  "condition_effect_red_up": [
+    [
+      "적에게 화속성 내성 하락 성능 강화"
+    ]
+  ],
+  "condition_effect_blue_up": [
+    [
+      "적에게 수속성 내성 하락 성능 강화"
+    ]
+  ],
+  "condition_effect_yellow_up": [
+    [
+      "적에게 뇌속성 내성 하락 성능 강화"
+    ]
+  ],
+  "condition_effect_green_up": [
+    [
+      "적에게 풍속성 내성 하락 성능 강화"
+    ]
+  ],
+  "condition_effect_white_up": [
+    [
+      "적에게 광속성 내성 하락 성능 강화"
+    ]
+  ],
+  "condition_effect_black_up": [
+    [
+      "적에게 암속성 내성 하락 성능 강화"
+    ]
+  ],
+  "condition_effect_poison_up": [
+    [
+      "독 효과 강화"
+    ]
+  ],
+  "condition_effect_paralysis_up": [
+    [
+      "마비 효과 강화"
+    ]
+  ],
+  "skill_damage_up": [
+    [
+      "스킬 대미지 상승 효과 강화"
+    ]
+  ],
+  "skill_gauge_up": [
+    [
+      "스킬 게이지 증가량 강화"
+    ]
+  ],
+  "powerflip_damage_up": [
+    [
+      "파워 플립 대미지 상승 효과 강화"
+    ]
+  ],
+  "multiball_up": [
+    [
+      "멀티 볼 성능 강화"
+    ]
+  ],
+  "condition_flying_up": [
+    [
+      "부유 효과 강화"
+    ]
+  ],
+  "condition_debuff_resistance_up": [
+    [
+      "약체 내성 효과 강화"
+    ]
+  ],
+  "condition_piercing_up": [
+    [
+      "관통 효과 강화"
+    ]
+  ],
+  "condition_slow": [
+    [
+      "둔족 효과 강화"
+    ]
+  ],
+  "condition_fever_point_up": [
+    [
+      "피버 게이지 증가 효과 강화"
+    ]
+  ],
+  "condition_regeneration_up": [
+    [
+      "재생 효과 강화"
+    ]
+  ],
+  "coffin_reduce": [
+    [
+      "관 카운트 감소 효과 강화"
+    ]
+  ],
+  "invinceble_up": [
+    [
+      "무적 효과 강화"
+    ]
+  ],
+  "condition_stun_wince": [
+    [
+      "브레이크 다운 중인 적에게 주는 대미지 강화"
+    ]
+  ],
+  "condition_directdamage_up": [
+    [
+      "직접 공격 대미지 상승 효과 강화"
+    ]
+  ],
+  "condition_directattack_more": [
+    [
+      "연격 효과 강화"
+    ]
+  ],
+  "barrier_up": [
+    [
+      "배리어 효과 강화"
+    ]
+  ],
+  "ability_damage_up": [
+    [
+      "어빌리티 대미지 상승 효과 강화"
+    ]
+  ],
+  "adversity_up": [
+    [
+      "역경 효과 강화"
+    ]
+  ],
+  "comboboost_up": [
+    [
+      "콤보 부스트 효과 강화"
+    ]
+  ],
+  "combo_count_up": [
+    [
+      "콤보 수 증가 효과 강화"
+    ]
+  ],
+  "condition_effect_stun_up": [
+    [
+      "스턴 효과 강화"
+    ]
+  ],
+  "condition_guts_up": [
+    [
+      "근성 효과 강화"
+    ]
+  ],
+  "condition_fixed_speed_up": [
+    [
+      "최대 속도 고정 효과 강화"
+    ]
+  ],
+  "condition_skill_gauge_charging_up": [
+    [
+      "스킬 차지 속도 효과 강화"
+    ]
+  ],
+  "separated_term_powerflip_damage_up": [
+    [
+      "별도 계산 파워 플립 대미지 상승 효과 강화"
+    ]
+  ],
+  "separated_term_directdamage_up": [
+    [
+      "별도 계산 직접 공격 대미지 상승 효과 강화"
+    ]
+  ],
+  "speed_up": [
+    [
+      "스피드 업 효과 강화"
+    ]
+  ]
+}

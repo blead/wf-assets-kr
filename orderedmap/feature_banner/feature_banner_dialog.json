@@ -1,0 +1,29 @@
+{
+  "2": [
+    [
+      "user_questionnaire_02",
+      "https://questant.jp/q/PRXEBFPA",
+      "(None)",
+      "브라우저를 열어 웹사이트로 이동합니다.\n실행하시겠습니까?",
+      "(None)"
+    ]
+  ],
+  "1": [
+    [
+      "user_questionnaire_01",
+      "https://questant.jp/q/0GSKA2A8?id=::viewer_id::",
+      "0",
+      "브라우저를 열어 웹사이트로 이동합니다.\n실행하시겠습니까?\n\n<font size='32px'>※ 앱에서 웹사이트로 이동할 때 플레이어 ID를 취득합니다.\n플레이어 ID는 이후 응답자 분들께 보상 아이템을 배포하는 용도로만 사용됩니다</font>",
+      "(None)"
+    ]
+  ],
+  "5000": [
+    [
+      "twitter_check_misson_dialog",
+      "https://twitter.com/world_flipper",
+      "(None)",
+      "ワールドフリッパーの公式Twitterページに\n移動します\nよろしいですか？\n\n※別のアプリを開きます",
+      "twitter_check"
+    ]
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "change_skill_devil_clown_xm21": [
+    [
+      "페이크 판타지아'의 '적 전체에 누적 광속성 내성 하락 효과'를 '적 전체에 누적 광속성 내성 하락 & 누적 공격력 하락 효과'로 변화"
+    ]
+  ],
+  "change_skill_kyouka": [
+    [
+      "\"코스모 블루 플래시\"의 위력을 강화"
+    ]
+  ],
+  "change_skill_misogi": [
+    [
+      "\"트릭 보머\"에 「명중한 적에게 화속성 내성 하락 효과」를 추가"
+    ]
+  ],
+  "change_skill_spanner_girl": [
+    [
+      "\"일렉트릭 리페어\"의 회복량을 강화"
+    ]
+  ],
+  "change_skill_tsundere_bountyhunter_vt22": [
+    [
+      "\"건나슈 카타라토\"에 「자신에게 연속 공격 효과」를 추가"
+    ]
+  ],
+  "change_skill_ice_dragon": [
+    [
+      "\"오드 이그 베이라\"가 '명중한 적에게 누적 공격력 하락 효과'를 추가"
+    ]
+  ],
+  "change_skill_super_robot": [
+    [
+      "\"멀티플 버스터\"의 차지 레이저의 위력과 범위 강화"
+    ]
+  ],
+  "change_skill_katana_ghost_wt22": [
+    [
+      "\"약속의 검\"의 '공격력 상승 효과'를 강화"
+    ]
+  ],
+  "change_skill_bigwing_shaman_smr21": [
+    [
+      "\"실프 레이지 토네이도\"의 「파워 플립 대미지 상승 효과」를 강화"
+    ]
+  ],
+  "change_skill_mercenary_smr21": [
+    [
+      "\"페이버러블 타이푼\"의 「공격력 상승 효과」를 강화"
+    ]
+  ],
+  "change_skill_ruin_girl_smr21": [
+    [
+      "\"셰메우 레어\"의 「공격력 상승 효과 ／ 연속 공격 효과」를 강화"
+    ]
+  ],
+  "change_skill_still_obstinator": [
+    [
+      "\"시스템 오토마타\"의 위력 강화"
+    ]
+  ],
+  "change_skill_anger_investigator": [
+    [
+      "\"드레드풀 버스트\"의 「화속성 내성 하락 효과」 강화"
+    ]
+  ],
+  "ability_skill_estateguild_leader": [
+    [
+      "\"관통 & 부유 & 최대 속도 고정 & 무적 & 회복 무효 효과\"를 지닌 영혼을 2마리 소환한다"
+    ]
+  ],
+  "change_skill_neoviolin_musician_hw21": [
+    [
+      "\"빛나는 달의 캐럴\"의 「파워 플립 대미지 상승 효과」를 강화"
+    ]
+  ],
+  "change_skill_sanctuary_guard_hw21": [
+    [
+      "\"번드 다운\"의 「관통 효과」를 강화"
+    ]
+  ],
+  "change_skill_pirates_girl_2anv": [
+    [
+      "\"시스템 스타워커\"의 「스킬 대미지 상승 효과」를 강화"
+    ]
+  ],
+  "change_skill_combat_animal_xm21": [
+    [
+      "\"나이트나이트 콤비네이션\"의 「공격력 상승 ＋ 스킬 대미지 상승 효과」를 강화"
+    ]
+  ],
+  "change_skill_heavenly_three": [
+    [
+      "\"리토라 스텝\"의 「파워 플립 대미지 상승 효과」를 강화"
+    ]
+  ],
+  "change_skill_rural_ladyship": [
+    [
+      "\"풀 블룸 스마일\"의 '공격력 상승 효과'를 강화 & 약화 효과 회복 수를 강화"
+    ]
+  ],
+  "change_skill_sand_bandit": [
+    [
+      "\"솜 샴시르\"에 '명중한 적에게 누적 수속성 내성 하락 효과'를 추가"
+    ]
+  ],
+  "change_skill_psychic_yamikawa": [
+    [
+      "\"메데이아 임브레이스\"의 '암속성 내성 하락 효과'를 암속성 멀티 볼의 수에 따라서 강화"
+    ]
+  ],
+  "change_skill_guildknight_leader": [
+    [
+      "\"미궁 유물 백은\"의 「공격력 상승 효과」를 강화"
+    ]
+  ],
+  "change_skill_holysword_girl": [
+    [
+      "\"하르트 슈트랄\"의 '공격력 상승 + 스킬 대미지 상승 효과'를 강화"
+    ]
+  ],
+  "change_skill_little_vampire": [
+    [
+      "\"방피르 미뉘\"의 '공격력 상승 효과'를 강화, 「자신 이외의 뇌속성 캐릭터의 HP가 50% 이상일 때, 그 캐릭터에게 대미지」를 추가"
+    ]
+  ],
+  "change_skill_2_tsundere_bountyhunter_vt22": [
+    [
+      "\"건나슈 카타라토\"의 「스킬 대미지 상승 효과」를 강화"
+    ]
+  ],
+  "change_skill_golemclub_captain": [
+    [
+      "스킬 \"타로스군 99호\"의 '화속성 멀티 볼에게 공격력 상승 + 직접 공격 대미지 상승 효과'를 강화"
+    ]
+  ],
+  "change_skill_psychic_nao": [
+    [
+      "\"성해 영역\"의 「공격력 상승 효과」를 강화"
+    ]
+  ],
+  "change_skill_psychic_tomboygirl_hw22": [
+    [
+      "\"못된 장난의 언령\"에 '필드 전체에 있는 적의 강화 효과를 하나 삭제' 추가"
+    ]
+  ],
+  "change_skill_2_super_robot": [
+    [
+      "\"멀티플 버스터\"의 '스캔이 명중한 적에게 뇌속성 내성 하락 효과'를 추가"
+    ]
+  ],
+  "change_skill_reformist_prince": [
+    [
+      "\"왕각검 라이트 엣지\"에 '명중한 적의 강화 효과 하나 삭제'를 추가"
+    ]
+  ],
+  "change_skill_wind_oracle_meteor23": [
+    [
+      "\"실피리아 소드 라이트\"의 위력을 강화"
+    ]
+  ],
+  "change_skill_psychic_taichi": [
+    [
+      "『鬼神ノ手・共鳴』の威力を強化"
+    ]
+  ],
+  "change_skill_catbaby_psychicer": [
+    [
+      "『キトゥンキネシス』の「しばらくの間近づいた敵に火ダメージ 」の効果時間を強化"
+    ]
+  ],
+  "change_skill_holysword_girl_2": [
+    [
+      "하르트 슈트랄의 '공격력 상승 효과'를 강화"
+    ]
+  ],
+  "change_skill_holysword_girl_3": [
+    [
+      "하르트 슈트랄의 '스킬 대미지 상승 효과'를 강화"
+    ]
+  ],
+  "change_skill_holysword_girl_4": [
+    [
+      "하르트 슈트랄의 '스킬 대미지 상승 효과'를 강화"
+    ]
+  ],
+  "change_skill_ghost_nymph": [
+    [
+      "수월경상의 '스킬 대미지 상승 효과'를 강화"
+    ]
+  ],
+  "ability_skill_resistance_princess_3halfanv": [
+    [
+      "파워 플립 Lv3이 히트할 때마다, 콤보 수 + 1"
+    ]
+  ],
+  "change_skill_alk_3halfanv": [
+    [
+      "\"메테오 브레이크 라이즈\"의 위력을 강화"
+    ]
+  ],
+  "change_skill_psychic_nao_3halfanv": [
+    [
+      "\"별이여, 미래를 잡아라\"의 「공격력 상승 효과」를 강화"
+    ]
+  ],
+  "change_skill_priest_prince_playable": [
+    [
+      "『パラサイト・アビス』に「闇属性マルチボールにバリア効果」を追加"
+    ]
+  ],
+  "change_skill_amulet_bosslady": [
+    [
+      "『水禍招来・四罪共工』に「命中した敵に累積水属性耐性ダウン効果」を追加"
+    ]
+  ],
+  "change_skill_evilloli_master": [
+    [
+      "『イノセント・カルマ』の威力を強化"
+    ]
+  ],
+  "change_skill_silence_suzuka": [
+    [
+      "\"선두의 경치는 양보할 수 없어…!\"의 \"최대 속도 고정 효과\"를 강화 & 아웃 홀에 울타리를 설치 & 한동안 대시를 받아들이지 않는다"
+    ]
+  ],
+  "change_skill_gold_ship": [
+    [
+      "\"나한테 밖으로 나오라니 배짱 한번 좋은데! 진지하게 해 줄게!\""
+    ]
+  ]
+}
